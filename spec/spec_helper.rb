@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'vfs'
 
 RSpec::Core::ExampleGroup.class_eval do

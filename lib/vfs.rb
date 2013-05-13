@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Vfs
   autoload :Path,           'vfs/path'
   autoload :Error,          'vfs/error'

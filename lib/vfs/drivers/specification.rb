@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 shared_examples_for 'vfs driver basic' do
   it 'should respond to :local?' do
     @driver.should respond_to(:local?)

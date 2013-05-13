@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class String
   def to_entry_on driver = nil
     path = self

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # It allows dynamically (magically) switching between UniversalEntry/Dir/File.
 module Vfs
   class EntryProxy < BasicObject

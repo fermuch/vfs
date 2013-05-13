@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Example of [Virtual File System][vfs] working with AWS S3.
 #
 # This is exactly the same [basic example][basics] but this time

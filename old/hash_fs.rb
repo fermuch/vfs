@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 #
 # Very dirty and inefficient In Memory File System, mainly for tests.
 #

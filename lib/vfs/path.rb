@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Vfs
   class Path < String
     def initialize path = '/', options = {}

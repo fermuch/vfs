@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Example of Application Deployment using [Virtual File System][vfs].
 #
 # In this example we uploading sample app files to remote server,

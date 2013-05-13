@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Example of creating AWS S3 Backup with [Virtual File System][vfs].
 #
 # In this example we uploading sample files to S3 and then

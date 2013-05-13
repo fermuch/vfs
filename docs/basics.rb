@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Virtual File System provides **clean, simple and unified API over different storages** (Local File System, AWS S3, SFTP, ...).
 #
 # - very simple and intuitive API.

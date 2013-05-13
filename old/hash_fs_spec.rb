@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'vfs/drivers/hash_fs'
 require 'vfs/drivers/specification'
 

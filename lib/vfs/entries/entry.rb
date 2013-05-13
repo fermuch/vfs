@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Vfs
   class Entry
     attr_reader :driver, :path, :path_cache

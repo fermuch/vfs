@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Example of using AWS S3 as a storage for [Virtual File System][vfs]
 
 # To use S3 we need the S3 driver, You need 'vos' and 'aws-sdk' gems installed.

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Example of using SFTP as a storage for [Virtual File System][vfs]
 
 # To use SSH/SFTP we need the SSH driver, You need 'vos', 'net-ssh' and 'net-sftp' gems installed.

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'vfs/drivers/local'
 require 'vfs/drivers/specification'
 
